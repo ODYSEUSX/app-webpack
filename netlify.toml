@@ -1,4 +1,3 @@
 [build]
-    base= "js-Portfolio"
     publish= "dist"
 command = "npm run build"
